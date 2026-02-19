@@ -4,9 +4,6 @@
   "outputDirectory": "dist",
   "installCommand": "npm install",
   "devCommand": "npm run dev",
-  "functions": {
-    "api/**/*.js": {}
-  },
   "rewrites": [
     {
       "source": "/api/(.*)",
